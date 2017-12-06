@@ -1,0 +1,7 @@
+@media (min-width: 360px) and (max-height: 640px) {
+  .mapa {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+}

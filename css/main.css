@@ -1,0 +1,165 @@
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.cont-nav {
+  padding-top: 3%;
+  margin: auto;
+}
+
+.item1-5 {
+  border: 1px solid red;
+}
+
+.barra-nav {
+  color: #000;
+}
+
+.redes-sociales {
+  margin-bottom: 1em;
+}
+
+li a {
+  color: gray;
+}
+
+ul li {
+  padding: 0.7em;
+}
+
+.clear-margin {
+  margin: 0;
+}
+
+.container-color-yellow {
+  background-color: #FFC107;
+  padding: 1.5em;
+}
+
+i {
+  color: #FFF;
+  font-size: 2em;
+  letter-spacing: 0.3em;
+  margin-bottom: 0;
+}
+
+/*.texto-logo {
+  border: 1px solid green;
+}*/
+
+.viaja-con {
+  display: inline-block;
+  color: #FFF;
+  font-size: 1em;
+}
+
+.logo-blanco {
+  padding-left: 0.8em;
+}
+
+.registrate {
+  margin-top: 1em;
+  color: #000;
+  font-weight: bold;
+  background-color: #FFF;
+}
+
+.titular {
+  color: #FFF;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.bg-img1 {
+  padding: 13em 0;
+  background-image: url(../assets/images/taxi.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.o-bien {
+  margin-top: 0.6em;
+  color: #FFF;
+}
+
+.bg-yellow {
+  background-color: #FFC107;
+  padding: 3em;
+  height: auto;
+  margin: auto;
+}
+
+.contorno {
+  border: 1px solid #FFF;
+  padding: 2em;
+}
+
+.bg-img2 {
+  padding: top;
+  background-image: url(../assets/images/conduce.jpg);
+  background-size: cover;
+  background-position: 3em;
+}
+
+.parrafo {
+  color: #FFF;
+}
+
+#container-color-black {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 4em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  margin-bottom: 8.5em;
+}
+
+.yellow-btn {
+  color: #FFF;
+  background-color: #FFC107;
+}
+
+.form-tarifa {
+  background-color: #FFC107;
+  /*border-style: none;*/
+  border: 0.1em solid #FFF;
+  border-radius: 0.3em;
+}
+
+.mapa {
+  border: 1px solid red;
+}
+
+/*
+.container-mapa {
+  border: 1px solid red;
+  padding: auto;
+}*/
+
+.bg-gray {
+  background-color: #2A202A;
+  padding: 3em;
+  height: auto;
+  margin: auto;
+}
+
+a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+.pie-depagina {
+  color: #FFF;
+}
+
+.contenedor-opacidad {
+  color: #000 left: 0px;
+  top: 0px;
+  z-index: 1000;
+}

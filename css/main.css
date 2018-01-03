@@ -126,9 +126,9 @@ i {
   border-radius: 0.3em;
 }
 
-.mapa {
+/* .mapa {
   border: 1px solid red;
-}
+} */
 
 /*
 .container-mapa {
@@ -162,4 +162,12 @@ ul {
   color: #000 left: 0px;
   top: 0px;
   z-index: 1000;
+}
+
+footer a{
+	color: #FFF;
+	text-decoration: none;
+}
+footer a:hover{
+	color: #ffc107;
 }
